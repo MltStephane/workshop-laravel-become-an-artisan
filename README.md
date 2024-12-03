@@ -43,7 +43,7 @@ Si vous préférez travailler sans Docker et disposez déjà de **PHP**, **Compo
 
 💡 **Pas encore prêt ?** Pas de souci ! Le site [php.new](https://php.new/) offre une solution rapide pour configurer un environnement Laravel-ready. ⚡
 
-> 🌟 **Astuce :** [php.new](https://php.new/) est soutenu par une agence très active dans l’écosystème Laravel, ce qui garantit sa fiabilité.
+> 🌟 **Info :** [php.new](https://php.new/) est soutenu par une agence très active dans l’écosystème Laravel.
 
 ---
 
@@ -57,10 +57,7 @@ Laravel Herd est une solution légère et rapide, particulièrement adaptée aux
 ---
 
 ### ✅ Checklist avant le workshop :
-1. **Vérifiez que votre starter Laravel est fonctionnel.** 🕵️‍♂️  
-   - Accédez à votre projet via un navigateur en local. 🌐  
-   - Testez les commandes basiques (`php artisan serve` ou `./vendor/bin/sail up`). 💻  
-2. **Apportez votre ordinateur le jour J.** 💼  
-3. **En cas de problème d'installation, contactez l’organisateur avant le 12 décembre.** 📩
+
+ | En cours de rédaction
 
 Nous avons hâte de vous voir au workshop et de vous accompagner dans votre aventure Laravel ! 🌟🎉
