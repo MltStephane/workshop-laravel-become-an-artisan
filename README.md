@@ -38,7 +38,7 @@ Une fois les containers lancés, dans un nouveau terminal, lancez :
 ```bash
 ./vendor/bin/sail npm install
 ./vendor/bin/sail artisan migrate
-./vendor/bin/sail run dev
+./vendor/bin/sail npm run dev
 ```
 
 ---
